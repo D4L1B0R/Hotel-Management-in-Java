@@ -4,7 +4,7 @@
 **Language:** Java  
 **Semester:** 2nd  
 **Academic Year:** 2023/2024  
-**Project Type:** Desktop application with GUI (Swing or JavaFX)
+**Project Type:** Desktop application with GUI
 
 ---
 
