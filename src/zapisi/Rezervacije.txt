@@ -1,0 +1,4 @@
+1|POTVRĐENA|18.06.2024.|23.06.2024.|101|milicaM|3|27000.0||trokrevetna (2+1)
+2|POTVRĐENA|08.06.2024.|15.06.2024.|0|milicaM|3|89600.0|večera.doručak.bazen.|trokrevetna (2+1)
+3|ODBIJENA|17.06.2024.|23.06.2024.|0|anči|3|0.0|večera.|trokrevetna (2+1)
+4|OTKAZANA|26.06.2024.|02.07.2024.|0|anči|3|0.0|doručak.|trokrevetna (2+1)

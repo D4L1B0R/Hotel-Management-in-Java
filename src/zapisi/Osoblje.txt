@@ -1,0 +1,4 @@
+Dalibor|Nikolic|MUSKI|ADMINISTRATOR|02.11.2024.|2211123362|Novi Sad, Zlatne Grede, 11|dalenik|dale|OSNOVNA|20
+Mika|Mikić|MUSKI|RECEPCIONER|12.12.1987.|1221137543|Vojnička 12, Petrovac|mikica|lozinka|SREDNJA|23
+Pera|Perić|MUSKI|ADMINISTRATOR|03.11.1967.|9023456738|Pera Pozinički 2a, Zrenjanin|svetipera123|lozinka|VIŠA|42
+Jana|Janić|ZENSKI|SOBARICA|11.07.2002.|8889998889|Vuka Karadžića 22, Beograd|janči|lozinka|OSNOVNA|2

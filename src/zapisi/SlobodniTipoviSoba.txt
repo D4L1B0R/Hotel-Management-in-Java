@@ -1,0 +1,4 @@
+dvokrevetna (2)|0
+jednokrevetna (1)|0
+dvokrevetna (1+1)|0
+trokrevetna (2+1)|0
