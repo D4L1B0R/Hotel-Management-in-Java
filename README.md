@@ -27,7 +27,7 @@ A Java-based desktop application for managing hotel operations, including custom
 
 ## 🎮 GUI Highlights
 
-- Intuitive and responsive layout using **Java Swing** or **JavaFX**  
+- Intuitive and responsive layout using **Java Swing**
 - Menu-based navigation (reservations, customers, rooms)  
 - Tables for displaying booking data  
 - Input forms with validation and feedback  
